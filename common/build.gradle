@@ -21,7 +21,7 @@ dependencies {
     implementation "com.google.code.gson:gson:2.8.7"
 
     // Dependencies available in both bukkit and bungee
-    compileOnly "net.md-5:bungeecord-chat:1.16-R0.5-SNAPSHOT"
+    compileOnly "net.md-5:bungeecord-chat:1.17-R0.1-SNAPSHOT"
 
     // Only included in paper?  (ShortID.java)
     compileOnly "commons-lang:commons-lang:2.6"
