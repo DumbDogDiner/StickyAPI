@@ -2,5 +2,5 @@ dependencies {
         api project(":common") // api - transistively expose common dependency when implementing :bungee
         testImplementation project(":common").sourceSets.test.output
 
-        compileOnly "net.md-5:bungeecord-api:1.16-R0.5-SNAPSHOT"
+        compileOnly "net.md-5:bungeecord-api:1.17-R0.1-SNAPSHOT"
 }
