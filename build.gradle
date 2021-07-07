@@ -189,7 +189,7 @@ subprojects {
 
     dependencies {
         implementation "org.jetbrains:annotations:21.0.1"
-        implementation "io.github.classgraph:classgraph:4.8.105"
+        implementation "io.github.classgraph:classgraph:4.8.110"
         implementation "com.github.seancfoley:ipaddress:5.3.3"
 
         // Tests - JUnit 5
